@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "TempreatureControl", "TempreatureControl\TempreatureControl.cproj", "{4894F90E-4B50-4A91-89D6-4AD247217F84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4894F90E-4B50-4A91-89D6-4AD247217F84}.Debug|AVR.ActiveCfg = Debug|AVR
+		{4894F90E-4B50-4A91-89D6-4AD247217F84}.Debug|AVR.Build.0 = Debug|AVR
+		{4894F90E-4B50-4A91-89D6-4AD247217F84}.Release|AVR.ActiveCfg = Release|AVR
+		{4894F90E-4B50-4A91-89D6-4AD247217F84}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
